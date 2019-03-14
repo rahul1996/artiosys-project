@@ -1,3 +1,9 @@
+# Vayushodhaka
+
+THE ‘NATURALLY’ SMART INDOOR AIR PURIFIER
+
+Vayushodhaka is a naturally smart indoor air purifier that purifies the air you breathe most of the time in an ORGANIC and SMARTER way. Vayushodhaka is inspired by ground-breaking NASA research on the capability of hyperaccumulator plants to absorb pollutants via phytoremediation. It is also enhanced with optimized air absorption technology and carbon filters to maximize circulation.
+
 # Agriwatch
 
 AgriWatch is an Agriculture monitoring system. Using precise system and smart algorithms,
@@ -51,3 +57,12 @@ We made wending machine which incentivize user based on social activity around a
 We used Natural language processing and Image Processing to get the context from Social media platforms 
 (Facebook, Twitter & Instagram). Based on the nature of post and user brand engagement, user will get 
 free gifts :)  
+
+# Automatic LPG Order Solution 
+
+The LPG cylinder will stand on a load sensing device which will automatically book the next cylinder for you 
+once the threshold value is crossed.
+
+# Fiery Lights
+
+Machendise based mood lights.
